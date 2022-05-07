@@ -4,13 +4,13 @@ Five years experience writing enterprise grade systems (Backend programming).
 Stereo typical geek  passionately drawn to wrting
 software at the lower level details for Computing Systems. 
 
-Core language competencies: 
+**Core language competencies:** 
 <br/> :heavy_check_mark: C/C++ 
 <br/> :heavy_check_mark: Java 
 <br/> :heavy_check_mark: Python 
 <br/> :heavy_check_mark: Javascript/Typescript
  <br /> <br />
-**Interested in computing systems according to the following fields of research:** <br />
+**Interested in computing systems according to the following fields of research:**
 <br /> :globe_with_meridians: Machine learning / Autonomous Systems
 <br /> :globe_with_meridians: Embedded / Real-Time Systems
 <br /> :globe_with_meridians: Telecommcation/Satellite networking/ Satellite Geodesy / Global
