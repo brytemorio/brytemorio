@@ -1,8 +1,8 @@
 ![alt text](https://github.com/brytemorio/brytemorio/blob/main/1500x500?raw=true)
 
-Five years experience writing enterprise grade systems (Backend programming).
+Writes enterprise grade systems (Backend programming).
 Stereo typical geek  passionately drawn to wrting
-software at the lower level details for Computing Systems. 
+software at the lower level  for computing systems. 
 
 **Core language competencies:** 
 <br/> :heavy_check_mark: C/C++ 
@@ -22,7 +22,7 @@ Positioning Systems
 
 _I often find inspiration from research projects by Darpa and IARPA,
 defense contractors such as Raytheon, Lockheed Martin, General Dynamics
-and even design firms such are Anduril and SpaceX._
+and even design firms such are Anduril and SpaceX. . . _
 
 **To-Do:** 
 <br /> :mortar_board: Ada 
