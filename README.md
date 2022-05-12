@@ -1,7 +1,7 @@
 ![alt text](https://github.com/brytemorio/brytemorio/blob/main/1500x500?raw=true)
 
-Writes enterprise grade systems (Backend programming).
-Stereo typical geek  passionately drawn to wrting
+Writes enterprise grade systems (Backend).
+Stereotypical geek  passionately drawn to wrting
 software at the lower level  for computing systems. 
 
 **Core language competencies:** 
