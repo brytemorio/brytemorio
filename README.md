@@ -20,9 +20,6 @@ Positioning Systems
 <br /> :globe_with_meridians: Augmented/Virtual Reality
 <br /> :globe_with_meridians: Quantum Computers.
 
-_I often find inspiration from research projects by Darpa and IARPA,
-defense contractors such as Raytheon, Lockheed Martin, General Dynamics
-and even design firms such are Anduril and SpaceX. . . _
 
 **To-Do:** 
 <br /> :mortar_board: Ada 
