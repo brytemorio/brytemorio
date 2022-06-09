@@ -22,5 +22,6 @@ Positioning Systems
 
 
 **To-Do:** 
-<br /> :mortar_board: Ada 
 <br /> :mortar_board: Common-Lisp.
+<br /> :mortar_board: Erlang.
+<br /> :mortar_board: Ada 
