@@ -10,7 +10,7 @@ software at the lower level  for computing systems.
 <br/> :heavy_check_mark: Python 
 <br/> :heavy_check_mark: Javascript/Typescript
  <br /> <br />
-**Interested in computing systems according to the following fields of research:**
+**Interested in computing systems according to any of the following fields of research:**
 <br /> :globe_with_meridians: Machine learning / Autonomous Systems
 <br /> :globe_with_meridians: Embedded / Real-Time Systems
 <br /> :globe_with_meridians: Telecommcation/Satellite networking/ Satellite Geodesy / Global
