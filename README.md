@@ -1,8 +1,8 @@
 ![alt text](https://github.com/brytemorio/brytemorio/blob/main/1500x500?raw=true)
 
-Writes enterprise grade systems (Backend).
 Stereotypical geek  passionately drawn to wrting
-software at the lower level  for computing systems. 
+software at the lower level  for computing systems.
+I write enterprise grade systems too (Backend)
 
 **Core language competencies:** 
 <br/> :heavy_check_mark: C/C++ 
