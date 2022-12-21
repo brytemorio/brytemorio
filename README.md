@@ -3,8 +3,8 @@
 <!--- <a href="https://app.daily.dev/brytemorio"><img src="https://api.daily.dev/devcards/efa13de162ae43418d1c68d82abaca96.png?r=hg5" width="400" alt="Bryte Morio's Dev Card"/></a>  -->
 
 Stereotypical geek  passionately drawn to wrting
-software at the lower level  for computing systems.
-I write enterprise grade systems too (Backend)
+software system at the lower level  for computing systems.
+I write enterprise grade systems and web apps(backend) too.
 
 **Core language competencies:** 
 <br/> :heavy_check_mark: C/C++ 
