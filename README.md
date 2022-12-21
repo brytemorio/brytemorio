@@ -23,12 +23,11 @@ Positioning Systems
 <br /> :globe_with_meridians: Quantum Computers.
 
 
-**To-Do:**
-<br /> :mortar_board: Ruby / Ruby-On-Rails
-<br /> :mortar_board: Common-Lisp
-<br /> :mortar_board: Lua
+**To-Learn List in other of priority:**
+<br /> :mortar_board: Ada
 <br /> :mortar_board: TLA+
+<br /> :mortar_board: Lua
 <br /> :mortar_board: Erlang
-<br /> :mortar_board: Ada 
+ 
 
 
