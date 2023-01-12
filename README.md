@@ -2,16 +2,16 @@
 
 <!--- <a href="https://app.daily.dev/brytemorio"><img src="https://api.daily.dev/devcards/efa13de162ae43418d1c68d82abaca96.png?r=hg5" width="400" alt="Bryte Morio's Dev Card"/></a>  -->
 
-Passionately drawn to wrting
-software system at the lower level  for computing systems.
-I write enterprise grade systems and web apps(backend) too.
-
-**Core language competencies:** 
-<br/> :heavy_check_mark: C/C++ 
+**Core language competencies:**  
 <br/> :heavy_check_mark: Java 
 <br/> :heavy_check_mark: Python 
 <br/> :heavy_check_mark: Javascript/Typescript
  <br /> <br />
+ 
+ **Average language competencies:**
+ <br/> :heavy_check_mark: C/C++
+ <br /> <br />
+ 
 **Interested in computing systems according to any of the following fields of research:**
 <br /> :globe_with_meridians: Machine learning / Autonomous Systems
 <br /> :globe_with_meridians: Embedded / Real-Time Systems
