@@ -2,16 +2,19 @@
 
 <!--- <a href="https://app.daily.dev/brytemorio"><img src="https://api.daily.dev/devcards/efa13de162ae43418d1c68d82abaca96.png?r=hg5" width="400" alt="Bryte Morio's Dev Card"/></a>  -->
 
+
 **Core language competencies:**  
 <br/> :heavy_check_mark: Java 
 <br/> :heavy_check_mark: Python 
 <br/> :heavy_check_mark: Javascript/Typescript
- <br /> <br />
+<br /> <br />
  
- **Average language competencies:**
+
+**Average language competencies:**
  <br/> :heavy_check_mark: C/C++
  <br /> <br />
  
+
 **Interested in computing systems according to any of the following fields of research:**
 <br /> :globe_with_meridians: Machine learning / Autonomous Systems
 <br /> :globe_with_meridians: Embedded / Real-Time Systems
@@ -23,7 +26,9 @@ Positioning Systems
 <br /> :globe_with_meridians: Quantum Computers.
 
 
-**To-Learn List in other of priority:**
+**To-Learn List:**
+<br /> :mortar_board: Common-Lisp
+<br /> :mortar_board: Delphi
 <br /> :mortar_board: Ada
 <br /> :mortar_board: TLA+
 <br /> :mortar_board: Lua
