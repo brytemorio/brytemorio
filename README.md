@@ -31,8 +31,8 @@ Positioning Systems
 
 
 **To-Learn List:**
-<br /> :mortar_board: Common-Lisp
 <br /> :mortar_board: Delphi
+<br /> :mortar_board: Common-Lisp
 <br /> :mortar_board: Ada
 <br /> :mortar_board: TLA+
 <br /> :mortar_board: Lua
