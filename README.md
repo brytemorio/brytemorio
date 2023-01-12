@@ -12,17 +12,18 @@ Positioning Systems
 <br /> :globe_with_meridians: Machine Vision
 <br /> :globe_with_meridians: Augmented/Virtual Reality
 <br /> :globe_with_meridians: Quantum Computers.
+<br /> <br />
 
 
 **Core language competencies:**  
-<br/> :heavy_check_mark: Java 
-<br/> :heavy_check_mark: Python 
-<br/> :heavy_check_mark: Javascript/Typescript
-<br /> <br />
+<br /> :heavy_check_mark: Java 
+<br /> :heavy_check_mark: Python 
+<br /> :heavy_check_mark: Javascript/Typescript
+<br /> <br/>
  
 
 **Average language competencies:**
- <br/> :heavy_check_mark: C/C++
+ <br /> :heavy_check_mark: C/C++
  <br /> <br />
  
 
