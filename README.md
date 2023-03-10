@@ -11,7 +11,6 @@ Positioning Systems
 <br /> :globe_with_meridians: Software Define Radio
 <br /> :globe_with_meridians: Machine Vision
 <br /> :globe_with_meridians: Augmented/Virtual Reality
-<br /> :globe_with_meridians: Quantum Computers.
 <br /> <br />
 
 
