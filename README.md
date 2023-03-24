@@ -5,6 +5,7 @@
 
 **Interested in software systems according to any of the following fields of research:**
 <br /> :globe_with_meridians: Autonomous Systems
+<br /> :globe_with_meridians: Distributed Systems
 <br /> :globe_with_meridians: Embedded / Real-Time Systems
 <br /> :globe_with_meridians: Telecommcation/Satellite networking/ Satellite Geodesy / Global
 Positioning Systems
