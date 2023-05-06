@@ -1,8 +1,8 @@
  ![alt text](https://github.com/brytemorio/brytemorio/blob/main/1500x500?raw=true) 
 
- <a href="https://app.daily.dev/brytemorio"><img src="https://api.daily.dev/devcards/efa13de162ae43418d1c68d82abaca96.png?r=hg5" width="400" alt="Bryte Morio's Dev Card"/></a>  
+ <!-- <a href="https://app.daily.dev/brytemorio"><img src="https://api.daily.dev/devcards/efa13de162ae43418d1c68d82abaca96.png?r=hg5" width="400" alt="Bryte Morio's Dev Card"/></a>  -->
 
-<!-- 
+
 **Interested in software systems in the context of any of the following fields of research:**
 <br /> :globe_with_meridians: Autonomous Systems
 <br /> :globe_with_meridians: Distributed Systems
@@ -11,8 +11,6 @@
 Positioning Systems
 <br /> :globe_with_meridians: Software Define Radio
 <br /> :globe_with_meridians: Machine Vision
-<br /> :globe_with_meridians: Augmented/Virtual Reality
-<br /> <br /> -->
 
 
 **Core language competencies:**  
