@@ -18,11 +18,7 @@ Positioning Systems
 <br /> :heavy_check_mark: Python 
 <br /> :heavy_check_mark: Javascript/Typescript
 <br /> :heavy_check_mark: PHP
-<br /> <br/>
- 
-
-**Average language competencies:**
- <br /> :heavy_check_mark: C/C++
+<br /> :heavy_check_mark: C/C++
  <br /> <br />
  
 
