@@ -3,7 +3,7 @@
  <!-- <a href="https://app.daily.dev/brytemorio"><img src="https://api.daily.dev/devcards/efa13de162ae43418d1c68d82abaca96.png?r=hg5" width="400" alt="Bryte Morio's Dev Card"/></a>  -->
 
 
-**Interested in software systems in the context of any of the following fields of research:** <br /><br />
+**Interested in software systems in the context of any of the following fields of research:** <br />
 :globe_with_meridians: Distributed Systems <br />
 :globe_with_meridians: Big Data / Data Engineering / Data Analytics <br />
 :globe_with_meridians: Computational Finance / Quantitative Finance <br />
@@ -19,7 +19,7 @@
 <br />
 <br />
 
-**Core language competencies:**  <br /> <br />
+**Core language competencies:**  <br />
  :heavy_check_mark: Java <br />
  :heavy_check_mark: Python <br />
  :heavy_check_mark: Javascript/Typescript <br />
