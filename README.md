@@ -5,20 +5,15 @@
 
 **Interested in software systems in the context of any of the following fields of research:** <br />
 :globe_with_meridians: Distributed Systems <br />
-:globe_with_meridians: Big Data / Data Engineering / Data Analytics <br />
+:globe_with_meridians: Enterprise Systems <br />
+:globe_with_meridians: Real-Time Systems <br />
 :globe_with_meridians: Computational Finance / Quantitative Finance <br />
 :globe_with_meridians: Machine Learning / Deep Reinforcement Learning <br />
-<!-- <br /> :globe_with_meridians: Embedded / Real-Time Systems -->
-<!-- <br /> :globe_with_meridians: Telecommcation/Satellite networking/ Satellite Geodesy / Global -->
-<!-- Positioning Systems / Geospatial Analysis -->
-<!-- <br /> :globe_with_meridians: Software Define Radio -->
-<!-- <br /> :globe_with_meridians: Machine Vision  -->
-
-
 <br />
 <br />
 <br />
 
+## SKILLS
 **Core language competencies:**  <br />
  :heavy_check_mark: Java <br />
  :heavy_check_mark: Python <br />
@@ -26,16 +21,30 @@
  :heavy_check_mark: PHP <br />
  :heavy_check_mark: C/C++ <br />
  <br /> <br />
- 
+
+ **Frameworks and Technologies** <br />
+ :heavy_check_mark: Micronauts <br />
+ :heavy_check_mark: Java EE <br />
+ :heavy_check_mark: NestJS <br />
+ :heavy_check_mark: NodeJS <br />
+ :heavy_check_mark: ReactJS (occasionally) <br />
+ :heavy_check_mark: Symfony <br />
+ :heavy_check_mark: Postgres <br />
+ <br /> <br />
+
+ **Miscellaneous:** <br />
+ :heavy_check_mark: Linux (Primary Development Environment) <br />
+ :heavy_check_mark: Linux Server Administration <br />
+<br />
+<br />
+<br />
 
 
-
-
-**To-Learn List:**
-<br /> :mortar_board: Jav
+## To-learn list
+:mortar_board: Golang
 <br /> :mortar_board: Common-Lisp
 <br /> :mortar_board: TLA+
-<!-- <br /> :mortar_board: Ada -->
+<br /> :mortar_board: Ada
  
 
 
