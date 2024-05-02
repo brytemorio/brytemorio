@@ -18,10 +18,7 @@
  :heavy_check_mark: Python <br />
  :heavy_check_mark: Javascript/Typescript <br />
  :heavy_check_mark: C++ <br />
- <br /> <br />
-
- **Miscellaneous:** <br />
- :heavy_check_mark: Linux (Primary Development Environment) <br />
+ :heavy_check_mark: Linux/Shell (Primary Development Environment) <br />
  :heavy_check_mark: Linux Server Administration <br />
 <br />
 <br />
