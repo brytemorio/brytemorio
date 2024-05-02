@@ -3,12 +3,12 @@
  <!-- <a href="https://app.daily.dev/brytemorio"><img src="https://api.daily.dev/devcards/efa13de162ae43418d1c68d82abaca96.png?r=hg5" width="400" alt="Bryte Morio's Dev Card"/></a>  -->
 
 
-**Interested in software systems in the context of any of the following fields of research:** <br />
+**Interested in software/information systems in the context of any of the following fields of research:** <br />
 :globe_with_meridians: Distributed Systems <br />
+:globe_with_meridians: Blockchain <br />
 :globe_with_meridians: Enterprise Systems <br />
 :globe_with_meridians: Real-Time Systems <br />
 :globe_with_meridians: Computational / Quantitative Finance <br />
-<br />
 <br />
 <br />
 
@@ -25,7 +25,7 @@
  :heavy_check_mark: Linux Server Administration <br />
 <br />
 <br />
-<br />
+
 
 
 ## To-learn list
