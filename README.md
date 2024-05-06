@@ -6,7 +6,6 @@
 **Interested in software/information systems in the context of any of the following fields of research:** <br />
 :globe_with_meridians: Distributed Systems <br />
 :globe_with_meridians: Blockchain <br />
-:globe_with_meridians: Enterprise Systems <br />
 :globe_with_meridians: Real-Time Systems <br />
 :globe_with_meridians: Computational / Quantitative Finance <br />
 <br />
