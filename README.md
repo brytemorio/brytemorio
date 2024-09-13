@@ -4,7 +4,7 @@
 <!-- ![image]({BadgeURLHere}) -->
 
 **Interested in software/information systems in the context of any of the following fields of research:** <br />
-:globe_with_meridians: Distributed Systems <br />
+:globe_with_meridians: Distributed Computing <br />
 :globe_with_meridians: Enterprise Systems <br />
 :globe_with_meridians: Computational / Quantitative Finance <br />
 <br />
@@ -21,7 +21,7 @@
 <br />
 
 ## STATS
-[![Language usage](https://github-readme-stats-sepia-eta-61.vercel.app/api/top-langs/?username=brytemorio&size_weight=0.1&count-weight=0.6&exclude_repo=WavesGatewayFramework&langs_count=10&hide=html&layout=compact&show_icon=true&theme=transparent&card_width=600)](https://github.com/brytemorio/github-readme-stats)
+[![Language usage](https://github-readme-stats-sepia-eta-61.vercel.app/api/top-langs/?username=brytemorio&size_weight=0.1&count-weight=0.6&exclude_repo=WavesGatewayFramework&langs_count=10&hide=html,css,scss,dockerfile&layout=compact&show_icon=true&theme=transparent&card_width=600)](https://github.com/brytemorio/github-readme-stats)
 <br />
 <br />
 
