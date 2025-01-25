@@ -6,6 +6,7 @@
 **Interested in software/information systems in the context of any of the following fields of research:** <br />
 :globe_with_meridians: Distributed Computing <br />
 :globe_with_meridians: Enterprise Systems <br />
+:globe_with_meridians: Network Programming <br />
 :globe_with_meridians: Computational / Quantitative Finance <br />
 <br />
 <br />
