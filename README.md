@@ -3,13 +3,7 @@
  <!-- <a href="https://app.daily.dev/brytemorio"><img src="https://api.daily.dev/devcards/efa13de162ae43418d1c68d82abaca96.png?r=hg5" width="350" height="400" alt="Bryte Morio's Dev Card"/></a> -->  
 <!-- ![image]({BadgeURLHere}) -->
 
-**Interested in software/information systems in the context of any of the following fields of research:** <br />
-:globe_with_meridians: Distributed Computing <br />
-:globe_with_meridians: Enterprise Systems <br />
-:globe_with_meridians: Network Programming <br />
-:globe_with_meridians: Computational / Quantitative Finance <br />
-<br />
-<br />
+
 
 ## SKILLS
  ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
