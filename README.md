@@ -15,10 +15,16 @@
 <br />
 <br />
 
-## STATS
+<!-- ## STATS
 [![Language usage](https://github-readme-stats-sepia-eta-61.vercel.app/api/top-langs/?username=brytemorio&size_weight=0.1&count-weight=0.6&exclude_repo=WavesGatewayFramework&langs_count=10&hide=html,css,scss,dockerfile&layout=compact&show_icon=true&theme=transparent&card_width=600)](https://github.com/brytemorio/github-readme-stats)
 <br />
 <br />
+-->
+
+![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=brytemorio&theme=tokyonight)
+![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=brytemorio&theme=tokyonight)
+![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=brytemorio&theme=tokyonight)
+![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=brytemorio&theme=tokyonight&utcOffset=1)
 
 
 ## To-learn list
