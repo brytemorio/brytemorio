@@ -13,7 +13,7 @@
  [![Nest](https://img.shields.io/badge/Nest.js-%23E0234E.svg?style=for-the-badge&logo=nestjs&logoColor=white)](#)
  [![NodeJS](https://img.shields.io/badge/Node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)](#)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
- . . .
+ <b>.</b> <b>.</b> <b>.</b> <b>.</b> <b>.</b> 
 <br />
 <br />
 
