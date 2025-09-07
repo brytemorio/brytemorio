@@ -28,7 +28,7 @@
 -->
 
 ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=brytemorio&theme=tokyonight)
-[![Language usage](https://github-readme-stats-sepia-eta-61.vercel.app/api/top-langs/?username=brytemorio&size_weight=0.1&count-weight=0.6&exclude_repo=WavesGatewayFramework&langs_count=10&hide=html,css,scss,dockerfile&layout=compact&show_icon=true&theme=transparent&card_width=600)](https://github.com/brytemorio/github-readme-stats)
+[![Language usage](https://github-readme-stats-sepia-eta-61.vercel.app/api/top-langs/?username=brytemorio&size_weight=0.1&count-weight=0.6&exclude_repo=WavesGatewayFramework&langs_count=13&hide=html,css,scss,dockerfile&layout=compact&show_icon=true&theme=transparent&card_width=600)](https://github.com/brytemorio/github-readme-stats)
 
 
 
